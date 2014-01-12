@@ -11,7 +11,6 @@ type(city_numbers.keys())
 print(city_numbers.keys())
 print(city_numbers.values())
 print(city_numbers.items())
-city_numbers.has_key('Istanbul')
 
 
 
